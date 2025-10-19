@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "waterbailey:block/music_block"
+    }
+  }
+}

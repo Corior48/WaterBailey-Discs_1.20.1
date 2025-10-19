@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "waterbailey:block/music_block_side",
+    "top": "waterbailey:block/music_block_top"
+  }
+}
