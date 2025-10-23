@@ -1,0 +1,296 @@
+{
+  "test_disc": {
+    "sounds": [
+      {
+        "name": "waterbailey:test_disc",
+        "stream": true
+      }
+    ]
+  },
+    "angel_hare_side_a": {
+      "sounds": [
+        {
+          "name": "waterbailey:angel_hare_side_a",
+          "stream": true
+        }
+      ]
+    },
+    "oh_despair": {
+      "sounds": [
+        {
+          "name": "waterbailey:oh_despair",
+          "stream": true
+        }
+      ]
+    },
+  "villager_lullaby": {
+    "sounds": [
+      {
+        "name": "waterbailey:villager_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "megalovania_1": {
+    "sounds": [
+      {
+        "name": "waterbailey:megalovania_1",
+        "stream": true
+      }
+    ]
+  },
+  "jaka_jaan": {
+    "sounds":[
+      {
+        "name": "waterbailey:jaka_jaan",
+        "stream": true
+      }
+    ]
+  },
+  "jaka_jaan_alternative": {
+    "sounds": [
+      {
+        "name": "waterbailey:jaka_jaan_alternative",
+        "stream": true
+      }
+    ]
+  },
+  "among_us_remix": {
+    "sounds": [
+      {
+        "name": "waterbailey:among_us_remix",
+        "stream": true
+      }
+    ]
+  },
+  "gangnam_style": {
+    "sounds": [
+      {
+        "name": "waterbailey:gangnam_style",
+        "stream": true
+      }
+    ]
+  },
+  "a_mothers_love": {
+    "sounds": [
+      {
+        "name": "waterbailey:a_mothers_love",
+        "stream": true
+      }
+    ]
+  },
+  "musician_use": {
+    "subtitle": "sounds.waterbailey.musician_use",
+    "sounds": [
+      "waterbailey:musician_use"
+    ]
+  },
+  "endless_encore": {
+    "sounds": [
+      {
+      "name": "waterbailey:endless_encore",
+      "stream": true
+      }
+    ]
+  },
+  "blazing_heart": {
+    "sounds": [
+      {
+      "name": "waterbailey:blazing_heart",
+      "stream": true
+      }
+    ]
+  },
+  "disco_eggmans_announcement": {
+    "sounds": [
+      {
+      "name": "waterbailey:disco_eggmans_announcement",
+      "stream": true
+     }
+    ]
+  },
+  "dont_mine_at_night": {
+    "sounds": [
+      {
+      "name": "waterbailey:dont_mine_at_night",
+      "stream": true
+      }
+    ]
+  },
+  "emberfire": {
+    "sounds": [
+      {
+      "name": "waterbailey:emberfire",
+      "stream": true
+      }
+    ]
+  },
+  "furina_theme": {
+    "sounds": [
+      {
+      "name": "waterbailey:furina_theme",
+      "stream": true
+      }
+    ]
+  },
+  "kyles_mom": {
+    "sounds": [
+      {
+      "name": "waterbailey:kyles_mom",
+      "stream": true
+      }
+    ]
+  },
+  "majin_forest_escape": {
+    "sounds": [
+      {
+      "name": "waterbailey:majin_forest_escape",
+      "stream": true
+      }
+    ]
+  },
+  "never_gonna_give_you_up":{
+    "sounds": [
+      {
+      "name": "waterbailey:never_gonna_give_you_up",
+      "stream": true
+      }
+    ]
+  },
+  "results_and_chill": {
+   "sounds": [
+     {
+     "name": "waterbailey:results_and_chill",
+     "stream": true
+    }
+   ]
+  },
+  "still_alive": {
+    "sounds": [
+      {
+      "name": "waterbailey:still_alive",
+      "stream": true
+      }
+    ]
+  },
+  "want_you_gone": {
+    "sounds": [
+      {
+      "name": "waterbailey:want_you_gone",
+      "stream": true
+      }
+    ]
+  },
+  "water_me_down": {
+    "sounds": [
+      {
+      "name": "waterbailey:water_me_down",
+      "stream": true
+      }
+    ]
+  },
+  "among_us_lofi": {
+    "sounds": [
+      {
+        "name": "waterbailey:among_us_lofi",
+        "stream": true
+      }
+    ]
+  },
+  "vs_sonic_exe_rerun": {
+    "sounds": [
+      {
+        "name": "waterbailey:vs_sonic_exe_rerun",
+        "stream": true
+      }
+    ]
+  },
+  "god_devouring_mania": {
+    "sounds": [
+      {
+        "name": "waterbailey:god_devouring_mania",
+        "stream": true
+      }
+    ]
+  },
+  "interstellar_drift": {
+    "sounds": [
+      {
+        "name": "waterbailey:interstellar_drift",
+        "stream": true
+      }
+    ]
+  },
+  "irresistible_force": {
+    "sounds": [
+      {
+        "name": "waterbailey:irresistible_force",
+        "stream": true
+      }
+    ]
+  },
+  "kitchen_gun": {
+    "sounds": [
+      {
+        "name": "waterbailey:kitchen_gun",
+        "stream": true
+      }
+    ]
+  },
+  "la_vaguelette": {
+    "sounds": [
+      {
+        "name": "waterbailey:la_vaguelette",
+        "stream": true
+      }
+    ]
+  },
+  "pleasant_tipsiness": {
+    "sounds": [
+      {
+        "name": "waterbailey:pleasant_tipsiness",
+        "stream": true
+      }
+    ]
+  },
+  "polumnia_omnia": {
+    "sounds": [
+      {
+        "name": "waterbailey:polumnia_omnia",
+        "stream": true
+      }
+    ]
+  },
+  "tar_tar_taglia": {
+    "sounds": [
+      {
+        "name": "waterbailey:tar_tar_taglia",
+        "stream": true
+      }
+    ]
+  },
+  "asgore_runs_over_dess": {
+  "sounds": [
+    {
+      "name": "waterbailey:asgore_runs_over_dess",
+      "stream": true
+    }
+  ]
+},
+  "nod_krai": {
+    "sounds": [
+      {
+        "name": "waterbailey:nod_krai",
+        "stream": true
+      }
+    ]
+  },
+  "summer_tropicala": {
+    "sounds": [
+      {
+        "name": "waterbailey:summer_tropicala",
+        "stream": true
+      }
+    ]
+  }
+}

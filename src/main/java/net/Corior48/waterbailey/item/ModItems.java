@@ -40,7 +40,7 @@ public class ModItems {
             () -> new RecordItem(15, ModSounds.A_MOTHERS_LOVE, new Item.Properties().stacksTo(1), 5700));
     public static final RegistryObject<Item> BLAZING_HEART = ITEMS.register("blazing_heart",
             () -> new RecordItem(15, ModSounds.BLAZING_HEART, new Item.Properties().stacksTo(1), 3540));
-    public static final RegistryObject<Item> DISCO_EGGMANS_ANNOUNCEMENT = ITEMS.register("disco_eggmans_announcement",
+    public static final RegistryObject<Item> DISCO_EGGMANS_ANNOUCNEMENT = ITEMS.register("disco_eggmans_announcement",
             () -> new RecordItem(15, ModSounds.DISCO_EGGMANS_ANNOUNCEMENT, new Item.Properties().stacksTo(1), 3380));
     public static final RegistryObject<Item> DONT_MINE_AT_NIGHT = ITEMS.register("dont_mine_at_night",
             () -> new RecordItem(15, ModSounds.DONT_MINE_AT_NIGHT, new Item.Properties().stacksTo(1), 4560));
@@ -54,7 +54,7 @@ public class ModItems {
             () -> new RecordItem(15, ModSounds.KYLES_MOM, new Item.Properties().stacksTo(1), 1980));
     public static final RegistryObject<Item> MAJIN_FOREST_ESCAPE = ITEMS.register("majin_forest_escape",
             () -> new RecordItem(15, ModSounds.MAJIN_FOREST_ESCAPE, new Item.Properties().stacksTo(1), 3620));
-    public static final RegistryObject<Item> NEVER_GONNA_GIVE_YOU_UP = ITEMS.register("never_gonna_give_you",
+    public static final RegistryObject<Item> NEVER_GONNA_GIVE_YOU_UP = ITEMS.register("never_gonna_give_you_up",
             () -> new RecordItem(15, ModSounds.NEVER_GONNA_GIVE_YOU_UP, new Item.Properties().stacksTo(1), 4260));
     public static final RegistryObject<Item> RESULTS_AND_CHILL = ITEMS.register("results_and_chill",
             () -> new RecordItem(15, ModSounds.RESULTS_AND_CHILL, new Item.Properties().stacksTo(1), 3760));

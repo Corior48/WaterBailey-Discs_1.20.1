@@ -10,7 +10,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
 
-import static net.Corior48.waterbailey.block.ModBlocks.MUSIC_BLOCK;
 import static net.Corior48.waterbailey.item.ModItems.*;
 
 public class ModCreativeModeTabs {
@@ -36,7 +35,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(GANGNAM_STYLE.get());
                         pOutput.accept(A_MOTHERS_LOVE.get());
                         pOutput.accept(BLAZING_HEART.get());
-                        pOutput.accept(DISCO_EGGMANS_ANNOUNCEMENT.get());
+                        pOutput.accept(DISCO_EGGMANS_ANNOUCNEMENT.get());
                         pOutput.accept(DONT_MINE_AT_NIGHT.get());
                         pOutput.accept(EMBERFIRE.get());
                         pOutput.accept(ENDLESS_ENCORE.get());

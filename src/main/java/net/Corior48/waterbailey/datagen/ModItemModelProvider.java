@@ -23,7 +23,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.ANGEL_HARE_SIDE_A);
         simpleItem(ModItems.ASGORE_RUNS_OVER_DESS);
         simpleItem(ModItems.BLAZING_HEART);
-        simpleItem(ModItems.DISCO_EGGMANS_ANNOUNCEMENT);
+        simpleItem(ModItems.DISCO_EGGMANS_ANNOUCNEMENT);
         simpleItem(ModItems.DONT_MINE_AT_NIGHT);
         simpleItem(ModItems.EMBERFIRE);
         simpleItem(ModItems.ENDLESS_ENCORE);

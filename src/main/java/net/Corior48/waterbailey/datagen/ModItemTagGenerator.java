@@ -8,17 +8,19 @@ import net.minecraft.data.tags.ItemTagsProvider;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.common.data.ExistingFileHelper;
+import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.concurrent.CompletableFuture;
 
 public class ModItemTagGenerator extends ItemTagsProvider {
-    public ModItemTagGenerator(PackOutput p_275343_, CompletableFuture<HolderLookup.Provider> p_275729_, CompletableFuture<TagLookup<Block>> p_275322_, @Nullable ExistingFileHelper existingFileHelper) {
+    public ModItemTagGenerator(PackOutput p_275343_, CompletableFuture<HolderLookup.Provider> p_275729_,
+                               CompletableFuture<TagLookup<Block>> p_275322_, @Nullable ExistingFileHelper existingFileHelper) {
         super(p_275343_, p_275729_, p_275322_, Waterbailey.MODID, existingFileHelper);
     }
 
     @Override
-    protected void addTags(HolderLookup.Provider pProvider) {
+    protected void addTags(HolderLookup.@NotNull Provider pProvider) {
 
         this.tag(ItemTags.MUSIC_DISCS)
                 .add(ModItems.A_MOTHERS_LOVE.get(),
@@ -27,7 +29,7 @@ public class ModItemTagGenerator extends ItemTagsProvider {
         ModItems.ANGEL_HARE_SIDE_A.get(),
         ModItems.ASGORE_RUNS_OVER_DESS.get(),
         ModItems.BLAZING_HEART.get(),
-        ModItems.DISCO_EGGMANS_ANNOUNCEMENT.get(),
+        ModItems.DISCO_EGGMANS_ANNOUCNEMENT.get(),
         ModItems.DONT_MINE_AT_NIGHT.get(),
         ModItems.EMBERFIRE.get(),
         ModItems.ENDLESS_ENCORE.get(),
